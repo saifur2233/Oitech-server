@@ -6,6 +6,7 @@ const ServiceModelSchema = new Schema({
   name: String,
   smallimg: String,
   largeimg: String,
+  processimg: String,
   subtitle: String,
   description: String,
 });
